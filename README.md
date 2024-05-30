@@ -35,7 +35,8 @@ Bu proje yasal ve etik sınırlar içinde kullanılmalıdır. Geliştirici, proj
 **UYARI**   
 Bu proje sadece test amaçlı olarak hazırlanmıştır. Yasaları ve etik kuralları ihlal etmemek önemlidir. Herhangi bir hedef makine üzerinde bu tür bir yazılımın kullanılması yasalara aykırı olabilir. Bu projenin kullanımı ve sonuçları tamamen kullanıcının sorumluluğundadır. Geliştirici, kötü niyetli veya yasa dışı kullanım nedeniyle ortaya çıkabilecek her türlü sorundan sorumlu değildir.
 
-**----------------------------------------------------------------------------------------------------------------------------------------**
+---
+
 # Backdoor Application
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
